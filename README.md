@@ -53,7 +53,7 @@ mainpage.html
 
 /* the main window options*/
 .styled form {
-            margin margin-top: 20px;
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
         }
@@ -146,7 +146,7 @@ mainpage.html
     background-color: #4234db;
 }
 
-/main html/
+main html/
 </style>
 <body >
     <form class="styled ">
@@ -199,7 +199,7 @@ mainpage.html
     </center>
 
 </body>
-<footer style="background-color:black;margin-top: 143; border: none;">
+<footer style="background-color:black;margin-top: 200; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by SHYAM SUJIN U 23014041 </P>
 </footer>
 </html>
@@ -218,7 +218,7 @@ projects.html
         color: aliceblue;
     }  
     .styled form {
-            margin margin-top: 20px;
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
         }
@@ -284,13 +284,13 @@ projects.html
         <img src="11.jpg" height="500" width="800">
     </center>
     </body>
-    <footer style="background-color:black;margin-top: 64; border: none;">
+    <footer style="background-color:black;margin-top: 135; border: none;">
         <P style="color:#ffffff; ;"align="center">Designed and Devoloped by SHYAM SUJIN U 23014041 </P>
     </footer>
 </html>
 
-about.html
 
+about.html
 
 <html>
 <title>about us</title>
@@ -303,7 +303,7 @@ about.html
         background-size: cover;
     }
     .styled form {
-            margin margin-top: 20px;
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
         }
@@ -409,7 +409,7 @@ about.html
 
 </DIV>
 </body>
-<footer style="background-color:black;margin-top: 143; border: none;">
+<footer style="background-color:black;margin-top: 210; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped bY SHYAM SUJIN U 23014041 </P>
 </footer>
 </html>
@@ -457,7 +457,7 @@ sign.html
             background-color: #4234db;
         }
         .styled form {
-            margin margin-top: 20px;
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
         }
@@ -562,12 +562,10 @@ sign.html
     </div>
 </div>
 </body>
-<footer style="background-color:black; border: none;">
+<footer style="background-color:black; margin-top: 90px; border: none;">
     <P style="color:#ffffff ;"align="center">Designed and Devoloped by SHYAM SUJIN U 23014041 </P>
 </footer>
 </html>
-
-
 
 contact.html
 
@@ -623,7 +621,7 @@ contact.html
             justify-content: space-evenly;
         }
         .styled form {
-            margin margin-top: 20px;
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
         }
@@ -721,34 +719,32 @@ border:2px solid white;
         <center>
         <h3 style="color: aliceblue;">COMPANY CONTACT INFORMATION</h3>
        <p> <b >Address</b></p>
-        <p >16,Rathinapuram,Moovarasampet High Road</p>
+        <p >16,pallavaram</p>
         <p >Pazhavanthangal Post</p>
         <p >Chennai-600114</p>
         <b >Email:</b>
-        <p >haripriyaks13@gmail.com</p>
+        <p >shyamsujin4@gmail.com</p>
         <b >Phone</b>
-        <p >8072973796</p>
+        <p >6382545707</p>
     </center>
     </div>
 </body>
-<footer style="background-color:black;margin-top: 118px; border: none;">
+<footer style="background-color:black;margin-top: 185px; border: none;">
     <P style="color:#ffffff ;"align="center">Designed and Devoloped by SHYAM SUJIN U 23014041 </P>
 </footer>
 </html>
+
 ```
 
 ## OUTPUT:
+![Alt text](<Screenshot (43).png>)
 
-![Alt text](<Screenshot (35).png>)
-![Alt text](<Screenshot (36).png>)
-![Alt text](<Screenshot (37).png>)
+![Alt text](<Screenshot (45).png>)
+![Alt text](<Screenshot (46).png>)
 
+![Alt text](<Screenshot (47).png>)
 
-![Alt text](<Screenshot (38).png>)
-
-
-![Alt text](<Screenshot (39).png>)
-
+![Alt text](<Screenshot (48).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
